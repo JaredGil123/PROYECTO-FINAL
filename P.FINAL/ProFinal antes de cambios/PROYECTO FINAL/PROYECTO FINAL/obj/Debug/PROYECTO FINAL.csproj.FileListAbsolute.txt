@@ -1,0 +1,116 @@
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe.config
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ECUACIONES_LIN.resources
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL1.resources
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL2.resources
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL3.resources
+C:\Users\Alex Conde\Desktop\PROGRAMAS\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL4.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ECUACIONES_LIN.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL1.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL2.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL3.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL4.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.RAICES.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\NCalc.dll
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormRegulaF.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO.CCD23A31.Up2Date
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormNewton.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos2.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos3.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormBiseccion.resources
+D:\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Secante.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\NCalc.dll
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos2.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos3.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ECUACIONES_LIN.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL1.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL2.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL3.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL4.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormBiseccion.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormNewton.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormRegulaF.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.RAICES.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Secante.resources
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO.CCD23A31.Up2Date
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+D:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\NCalc.dll
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos2.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos3.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ECUACIONES_LIN.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL1.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL2.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL3.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL4.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormBiseccion.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormNewton.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormRegulaF.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.RAICES.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Secante.resources
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO.CCD23A31.Up2Date
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+E:\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\NCalc.dll
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos2.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Datos3.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ECUACIONES_LIN.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL1.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL2.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL3.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.EL4.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormBiseccion.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormNewton.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FormRegulaF.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.RAICES.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Secante.resources
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO.CCD23A31.Up2Date
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\LG\Downloads\111\ProFinal antes de cambios\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
